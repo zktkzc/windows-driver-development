@@ -1,0 +1,11 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  entry.c
+E:\Project\C\C++\Windows 驱动开发\驱动监控进程创建\MyDriver1\entry.c(20,57): warning C4100: “hProcess”: 未引用的形参
+E:\Project\C\C++\Windows 驱动开发\驱动监控进程创建\MyDriver1\entry.c(33,34): warning C4100: “pDriverObject”: 未引用的形参
+E:\Project\C\C++\Windows 驱动开发\驱动监控进程创建\MyDriver1\entry.c(46,68): warning C4100: “pRegPath”: 未引用的形参
+  MyDriver1.vcxproj -> E:\Project\C\C++\Windows 驱动开发\驱动监控进程创建\x64\Debug\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Project\C\C++\Windows \\x64\Debug\MyDriver1.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
